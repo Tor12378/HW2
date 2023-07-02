@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Главная" />
+    <item
+        android:id="@+id/listFragment"
+        android:icon="@drawable/baseline_format_list_bulleted_24"
+        android:title="Параметры" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Профиль" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Настройки" />
+    <item
+        android:id="@+id/shopFragment"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        android:title="Сервисы" />
+</menu>
